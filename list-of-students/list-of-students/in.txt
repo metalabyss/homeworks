@@ -1,0 +1,3 @@
+sidorov 4.0 25
+ivanov 3.5 18
+petrov 5.0 19
